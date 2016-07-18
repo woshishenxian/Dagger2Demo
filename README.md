@@ -647,9 +647,3 @@ public @interface Named {
 ```
 
 dagger2 主要功能 就此介绍完毕，如果觉得不错，就尽快用起来吧~
-
-####参考：
-<http://google.github.io/dagger/>
-<http://frogermcs.github.io/>
-####demo地址：
-<https://github.com/wlj32011/dagger2demo>
